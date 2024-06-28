@@ -6,6 +6,8 @@ export default defineConfig({
   description: "个人所思所想所做、优秀开源项目归类整理、好玩有趣的AI产品归类整理、个人AI项目展示的平台",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.png',
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
