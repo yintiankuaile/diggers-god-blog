@@ -55,5 +55,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/yintiankuaile/diggers-god-blog' }
     ]
   },
-  srcDir: "./src"
+  srcDir: "./src",
+  base:'/docs/'
 })
