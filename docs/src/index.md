@@ -14,7 +14,7 @@ hero:
       text: 个人博客
       link: /api-examples
     - theme: alt
-      text: 有趣AI产品
+      text: AI产品秀
       link: /api-examples
 
 features:

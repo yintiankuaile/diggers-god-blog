@@ -9,8 +9,9 @@ export default defineConfig({
     logo: '/logo.png',
 
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '个人网站', link: '/' },
+      { text: '开源项目', link: '/markdown-examples' },
+      { text: '有趣的AI产品', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -24,7 +25,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/yintiankuaile/diggers-god-blog' }
     ]
   },
   srcDir: "./src"
